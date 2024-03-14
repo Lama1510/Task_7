@@ -1,0 +1,30 @@
+*{
+
+    padding: 0;
+    margin: auto;
+    box-sizing: 0;
+}
+
+.tasbeh{
+
+  align-items: center;
+}
+
+.tasbeh .container{
+
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+
+}
+
+.tasbeh .container  .T1{
+ 
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+   
+    
+}
